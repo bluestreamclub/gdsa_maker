@@ -10,7 +10,7 @@ sudo apt update -yqq && sudo apt install python3.8 python3-pip -yqq && sudo apt 
 
 Then for gdsa-maker:
 ```
-sudo git clone https://github.com/mrfret/gdsa_maker && cd gdsa_maker && sudo pip3 install -r requirements.txt
+sudo git clone https://github.com/bluestreamclub/gdsa_maker && cd gdsa_maker && sudo pip3 install -r requirements.txt
 ```
 
 # Authorize:
